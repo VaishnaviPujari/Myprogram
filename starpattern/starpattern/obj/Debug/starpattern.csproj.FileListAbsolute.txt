@@ -1,0 +1,5 @@
+C:\Users\Vaishnavi\documents\visual studio 2013\Projects\starpattern\starpattern\bin\Debug\starpattern.exe
+C:\Users\Vaishnavi\documents\visual studio 2013\Projects\starpattern\starpattern\bin\Debug\starpattern.pdb
+C:\Users\Vaishnavi\documents\visual studio 2013\Projects\starpattern\starpattern\obj\Debug\starpattern.csprojResolveAssemblyReference.cache
+C:\Users\Vaishnavi\documents\visual studio 2013\Projects\starpattern\starpattern\obj\Debug\starpattern.exe
+C:\Users\Vaishnavi\documents\visual studio 2013\Projects\starpattern\starpattern\obj\Debug\starpattern.pdb
